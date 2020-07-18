@@ -1,1 +1,2 @@
-# car-racing-game-c35
+# synchronousBallMovement
+Ball moving synchronously
